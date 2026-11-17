@@ -14,3 +14,6 @@ The Windows installer isn't code-signed yet, so SmartScreen may warn on first la
 
 ## Updates
 Click the version number at the top of the window. Installed copies download new versions in the background and show **Update x.y.z ready**: click it, then **Install & restart**.
+
+## Problems?
+Use **Help → Send Diagnostics to BEAM…** (or the version number at the top). It sends BEAMpdf's log and a short status report to BEAM, never your PDFs.
